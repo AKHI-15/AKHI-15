@@ -1,6 +1,6 @@
 -  Hi, I’m AKHILA
 -  I’m interested in Java, python
--  Proficient in Google Cloud i.e, creating VPC, storage buckets, VPN, Virtual Machines, IAM roles
+-  Proficient in SQL, LINUX 
 -  I’m currently learning Cisco DevNet which is all about configuring docker build files, CI/CD pipeline
 -  I’m looking to collaborate on national hackathons, internships, software developer role
 <!---
